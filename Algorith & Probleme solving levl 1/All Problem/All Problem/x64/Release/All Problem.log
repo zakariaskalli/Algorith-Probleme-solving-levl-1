@@ -1,0 +1,7 @@
+﻿  All Problem.cpp
+C:\Project C++\Algorith & Probleme solving levl 1\All Problem\All Problem\All Problem.cpp(2619,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All Problem.vcxproj -> C:\Project C++\Algorith & Probleme solving levl 1\All Problem\x64\Release\All Problem.exe
